@@ -1,0 +1,7 @@
+narration_id,participant_id,video_id,narration_timestamp,start_timestamp,stop_timestamp,start_frame,stop_frame,narration,verb,verb_class,noun,noun_class,all_nouns,all_noun_classes,action_class
+P01_11_137,P01,P01_11,00:08:24.530,00:08:22.80,00:08:30.49,30168,30629,open bag,open,3,bag,19,['bag'],[19],open bag
+P01_13_0,P01,P01_13,00:00:00.739,00:00:00.61,00:00:01.76,36,105,take cereal bag,take,0,bag,19,['bag'],[19],take bag
+P03_22_25,P03,P03_22,00:01:00.510,00:00:58.78,00:01:00.47,3526,3628,take bag,take,0,bag,19,['bag'],[19],take bag
+P11_24_20,P11,P11_24,00:00:54.250,00:00:51.32,00:00:54.61,3079,3276,pick up bag,pick-up,0,bag,19,['bag'],[19],take bag
+P11_24_21,P11,P11_24,00:00:56.219,00:00:56.72,00:01:10.18,3403,4210,open bag,open,3,bag,19,['bag'],[19],open bag
+P11_24_22,P11,P11_24,00:01:07.770,00:01:10.28,00:01:11.76,4216,4305,open bag,open,3,bag,19,['bag'],[19],open bag

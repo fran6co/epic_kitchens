@@ -1,0 +1,14 @@
+uid,participant_id,video_id,narration,start_timestamp,stop_timestamp,start_frame,stop_frame,verb,verb_class,noun,noun_class,all_nouns,all_noun_classes,action_class
+1,P01,P01_05,take bread bag,00:08:30.46,00:08:31.35,30627,30681,take,0,bag,20,['bag'],[20], take bag
+2,P01,P01_07,take cereal bag,00:02:19.31,00:02:21.17,8358,8470,take,0,bag,20,['bag'],[20], take bag
+3,P01,P01_09,take bag,00:00:03.91,00:00:05.73,234,343,take,0,bag,20,['bag'],[20], take bag
+4,P01,P01_09,open bag,00:00:08.02,00:00:09.88,481,592,open,2,bag,20,['bag'],[20], open bag
+5,P01,P01_09,take flower off bag,00:00:09.93,00:00:11.35,595,681,take,0,bag,20,['bag'],"[20, 20]", take bag
+6,P01,P01_09,open four bag,00:02:13.06,00:02:23.56,7983,8613,open,2,bag,20,['bag'],[20], open bag
+7,P01,P01_09,take flour bag,00:06:35.90,00:06:36.86,23754,23811,take,0,bag:flour,20,['bag'],[20], take bag
+8,P02,P02_01,open bag,00:00:47.43,00:00:48.21,2845,2892,open,2,bag,20,['bag'],[20], open bag
+9,P02,P02_02,pick up the bag,00:00:04.46,00:00:06.83,267,409,pick-up,0,bag,20,['bag'],[20], take bag
+10,P02,P02_02,pick up bag,00:00:11.14,00:00:13.32,668,799,pick-up,0,bag,20,['bag'],[20], take bag
+11,P02,P02_02,pick up bag a new bag,00:00:19.57,00:00:21.08,1174,1264,pick-up,0,bag,20,"['bag', 'bag:new']","[20, 20]", take bag
+12,P02,P02_02,open the new bag,00:00:29.10,00:00:30.69,1746,1841,open,2,bag,20,['bag'],[20], open bag
+13,P02,P02_03,open bag,00:00:02.75,00:00:05.25,165,315,open,2,bag,20,['bag'],[20], open bag
